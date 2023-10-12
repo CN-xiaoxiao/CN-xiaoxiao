@@ -11,4 +11,4 @@ My![Visitor Count](https://profile-counter.glitch.me/CN-xiaoxiao/count.svg)visit
 ## About My GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CN-xiaoxiao)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN-xiaoxiao&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN-xiaoxiao&hide=html,css,scss,Batchfile)](https://github.com/anuraghazra/github-readme-stats) 
